@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --fonte-titulo:.'pt-serif-regular';
+    --fonte-texto:"Edu AU VIC WA NT Guides";
+    ---cor1:#fff;
+    ---cor2:#fd0000;
+    ---cor3:#000000;
+    ---cor4:#646464;
+    ---cor5:#73ff01;
+    ---cor6:#ff00c8;
+}
+body{
+    font-family: var(--fonte-texto);
+    background-color: var(---cor3);
+    
+}
+
