@@ -9,9 +9,10 @@
     ---cor1:#fff;
     ---cor2:#fd0000;
     ---cor3:#000000;
-    ---cor4:#646464;
+    ---cor4:#acacac;
     ---cor5:#73ff01;
     ---cor6:#ff00c8;
+    ---cor7:#8d4949;
 }
 body{
     font-family: var(--fonte-texto);
@@ -22,6 +23,20 @@ body{
 }
 h1,h3{
     font-family: var(--fonte-titulo);
+}
+
+.card{
+    background-color: var(---cor1);
+}
+.modal-dialog{
+    color: #000000;
+}
+.link{
+    text-decoration: nome;
+    font-size:1.2em;
+    color: #73ff01;
+
+
 }
 
 
